@@ -1,0 +1,154 @@
+{
+    "verbs": {
+		"meter": {
+			"english": "to put"
+		},
+		"someter": {
+			"english": "to subdue"
+		},
+		"suceder": {
+			"english": "to happen"
+		},
+		"suspender": {
+			"english": "to hang"
+		},
+		"comprometer": {
+			"english": "to jeopardize"
+		},
+		"esconder": {
+			"english": "to hide"
+		},
+		"exceder": {
+			"english": "to exceed"
+		},
+		"lamer": {
+			"english": "to lick"
+		},
+		"absorber": {
+			"english": "to absorb"
+		},
+		"acceder": {
+			"english": "to agree"
+		},
+		"cometer": {
+			"english": "to commit"
+		},
+		"suavizar": {
+			"english": "to soften"
+		},
+		"totalizar": {
+			"english": "to add up"
+		},
+		"tranquilizar": {
+			"english": "to calm down"
+		},
+		"tropezar": {
+			"english": "to stumble"
+		},
+		"rezar": {
+			"english": "to pray"
+		},
+		"simpatizar": {
+			"english": "to get along"
+		},
+		"sincronizar": {
+			"english": "to synchronize"
+		},
+		"socializar": {
+			"english": "to socialize"
+		},
+		"personalizar": {
+			"english": "to personalize"
+		},
+		"priorizar": {
+			"english": "to give priority to"
+		},
+		"reemplazar": {
+			"english": "to replace"
+		},
+		"reutilizar": {
+			"english": "to reuse"
+		},
+		"revitalizar": {
+			"english": "to revitalize"
+		},
+		"endulzar": {
+			"english": "to sweeten"
+		},
+		"idealizar": {
+			"english": "to idealize"
+		},
+		"memorizar": {
+			"english": "to memorize"
+		},
+		"neutralizar": {
+			"english": "to neutralize"
+		},
+		"aterrizar": {
+			"english": "to land"
+		},
+		"autorizar": {
+			"english": "to authorize"
+		},
+		"actualizar": {
+			"english": "to update"
+		},
+		"amenazar": {
+			"english": "to threaten"
+		},
+		"analizar": {
+			"english": "to analyze"
+		},
+		"averiguar": {
+			"english": "to find out"
+		},
+		"caracterizar": {
+			"english": "to characterize"
+		},
+		"vaciar": {
+			"english": "to empty"
+		},
+		"variar": {
+			"english": "to alter"
+		},
+		"espiar": {
+			"english": "to spy on"
+		},
+		"guiar": {
+			"english": "to guide"
+		},
+		"prolongar": {
+			"english": "to extend"
+		},
+		"reenviar": {
+			"english": "to forward"
+		},
+		"rociar": {
+			"english": "to spray"
+		},
+		"rogar": {
+			"english": "to beg"
+		},
+		"sobrecargar": {
+			"english": "to overload"
+		},
+		"agregar": {
+			"english": "to add"
+		},
+		"entregar": {
+			"english": "to turn in"
+		},
+		"investigar": {
+			"english": "to investigate"
+		},
+		"juzgar": {
+			"english": "to judge"
+		},
+		"madrugar": {
+			"english": "to get up early"
+		},
+		"mitigar": {
+			"english": "to mitigate"
+		}
+    }
+}
